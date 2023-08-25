@@ -5,7 +5,7 @@ body{
 }
 
 .maindiv{
-    padding: 50px 40px;
+    padding: 50px 90px;
 }
 
 nav{
@@ -34,10 +34,10 @@ li a{
     text-align: center;
 }
 
-li a:hover{
+/* li a:hover{
     background: gray;
     text-transform: uppercase;
-}
+} */
 
 .logo img{
     position: absolute;
@@ -67,24 +67,24 @@ li a:hover{
   }
   
   .inner-div {
-    padding: 10px;
+    padding: 20px 60px;
     border: 1px solid white;
     display: flex;
     align-items: center;
   }
 
   .h1-tag{
-    font-size: 170%;
+    font-size: 190%;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgba(89,85,179,255);
-    letter-spacing: 2px;
-    line-height: 30px; 
+    color:#3c2f60;
+    letter-spacing: 3px;
+    line-height: 25px; 
 
   }
   
   .image {
-    max-width: 55%;
-    margin-left: 220px;
+    max-width: 52%;
+    margin-left: 170px;
   }
 
 
