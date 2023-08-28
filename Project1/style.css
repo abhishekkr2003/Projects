@@ -10,7 +10,7 @@ body{
   background-color: white;
   padding: 10px 20px;
   color: white;
-  margin-right: 200px;
+  margin-right: 0px;
   margin-left: 80px;
 }
 
@@ -31,10 +31,10 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 750px;
+  margin-right: 650px;
 }
 .navigation li {
-  margin: 0 15px;
+  margin: 0 10px;
 }
 .navigation li a {
   text-decoration: none;
