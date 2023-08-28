@@ -2,7 +2,7 @@ body{
   background-color: white;
 }
 
-/* Basic styling for the navbar */
+/*styling for the navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -13,19 +13,16 @@ body{
   margin-right: 200px;
 }
 
-/* Styling for the logo */
 .logo img {
-  width: 90px; /* Adjust the width as needed */
+  width: 90px;
   height: auto;
 }
 
-/* Styling for the content area */
 .content {
   flex-grow: 1;
   text-align: center;
 }
 
-/* Styling for the navigation links */
 .navigation {
   list-style: none;
   margin: 0;
@@ -43,7 +40,6 @@ body{
   color: black;
 }
 
-/* Styling for the button */
 .button {
   padding: 8px 16px;
   background-color: rgba(89,85,179,255);
@@ -53,7 +49,6 @@ body{
   cursor: pointer;
 }
 
-/* Basic styling for the container */
 .container {
   display: flex;
   align-items: center;
@@ -62,12 +57,10 @@ body{
   padding: 20px;
 }
 
-/* Styling for the left content */
 .left-content {
   flex: 1;
 }
 
-/* Styling for the h1 tags */
 h1 {
   margin: 0;
   font-size: 80px;
@@ -90,8 +83,7 @@ p{
   margin-left: 100px;
 }
 
-/* Styling for the right content */
 .right-content img {
-  width: 800px; /* Adjust the width as needed */
+  width: 800px; 
   height: auto;
 }
